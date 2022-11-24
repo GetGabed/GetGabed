@@ -1,13 +1,16 @@
-<h1 align="center">Hello 👋, I'm Gabriel</h1>
-<h3 align="center">I am a Co-op student in Software Engineering</h3>
+<h1 align="center">Hello 👋, the name's Gabriel</h1>
+<h3 align="center">I am a CO-OP student in Software Engineering <strong>@</strong> Concordia Montreal</h3>
 
-- 🌱 I’m currently learning **NextJs and overall Game Development**
+🌱 Currently learning **NextJs and Game Development**
 
-- 👨‍💻 All of my projects are available at [https://gabriel-dubois.netlify.app](https://gabriel-dubois.netlify.app)
+💬 My passions are **Web and Game development**, and I'd like to discuss **Career growth**
 
-- 💬 Ask me about **Object-Oriented Programming, React**
+👨‍💻 All of my projects are available at [https://gabriel-dubois.netlify.app](https://gabriel-dubois.netlify.app)
 
-- 📫 How to reach me **gabrieldubois.eng@gmail.com**
+📫 Reach me at: **gabrieldubois.eng@gmail.com**
+
+⚡ Work experience:
+  - **Software Developer at iBwave** - Full-stack and QA development on the Unity Web Platform. [Montreal, Quebec. Fall 2022]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
