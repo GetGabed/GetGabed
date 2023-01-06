@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, the name's Gabriel</h1>
 <h3 align="center">I am a CO-OP student in Software Engineering <strong>@</strong> Concordia Montreal</h3>
 
-🌱 Currently learning **NextJs and Unity**
-
-💬 I love **Web and Game development**
+🌱 Currently learning **Web development (Node and Next) and Unity**
 
 👨‍💻 All of my projects are available at [https://gabriel-dubois.netlify.app](https://gabriel-dubois.netlify.app)
 
