@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, the name's Gabriel</h1>
+<h1 align="center">Hello 👋, I am Gabriel</h1>
 <h3 align="center">I am a CO-OP student in Software Engineering <strong>@</strong> Concordia Montreal</h3>
 
 🌱 Currently learning **Web development (Node and Next) and Unity**
