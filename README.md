@@ -3,7 +3,7 @@
 
 🌱 Currently learning **Web development (Node and Next) and Unity**
 
-👨‍💻 All of my projects are available at [https://gabriel-dubois.netlify.app](https://gabriel-dubois.netlify.app)
+👨‍💻 All of my projects are available at [https://gabrieldubois.engineer](https://gabrieldubois.engineer)
 
 📫 Reach me at: **gabrieldubois.eng@gmail.com**
 
