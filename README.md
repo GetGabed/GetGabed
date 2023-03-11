@@ -8,7 +8,7 @@
 📫 Reach me at: **gabrieldubois.eng@gmail.com**
 
 ⚡ Work experience:
-  - **Software Developer at Genetec** - C# development in the Industrial Internet of Things. [Quebec, Quebec. Summer 2023]
+  - **Software Developer at Genetec** - C# development in the Industrial Internet of Things team. [Quebec, Quebec. Summer 2023]
   - **Software Developer at iBwave** - Full-stack and QA development on the Unity Web Platform. [Montreal, Quebec. Fall 2022]
 
 <h3 align="left">Connect with me:</h3>
