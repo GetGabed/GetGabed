@@ -1,13 +1,14 @@
 <h1 align="center">Hello 👋, I am Gabriel</h1>
 <h3 align="center">I am a CO-OP student in Software Engineering <strong>@</strong> Concordia Montreal</h3>
 
-🌱 Currently learning **Web development (Node and Next) and Unity**
+🌱 Currently learning **Python and NextJS full-stack development**
 
 👨‍💻 All of my projects are available at [https://gabrieldubois.engineer](https://gabrieldubois.engineer)
 
 📫 Reach me at: **gabrieldubois.eng@gmail.com**
 
 ⚡ Work experience:
+  - **Software Developer at Genetec** - C# development in the Industrial Internet of Things. [Quebec, Quebec. Summer 2023]
   - **Software Developer at iBwave** - Full-stack and QA development on the Unity Web Platform. [Montreal, Quebec. Fall 2022]
 
 <h3 align="left">Connect with me:</h3>
