@@ -1,7 +1,5 @@
 <h1 align="center">Hello 👋, I am Gabriel</h1>
-<h3 align="center">I am a CO-OP student in Software Engineering <strong>@</strong> Concordia Montreal</h3>
-
-🌱 Currently learning **Python and NextJS full-stack development**
+<h3 align="center">I am a Student in Software Engineering <strong>@</strong> Concordia Montreal</h3>
 
 👨‍💻 All of my projects are available at [https://gabrieldubois.engineer](https://gabrieldubois.engineer)
 
