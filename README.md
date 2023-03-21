@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I am Gabriel</h1>
-<h3 align="center">I am a Software Engineer <strong>@</strong> Concordia Montreal</h3>
+<h1 align="center">Hello 👋, I'm Gabriel</h1>
+<h3 align="center">Software Engineer <strong>@</strong> Concordia Montreal</h3>
 
 👨‍💻 All of my projects are available at [https://gabrieldubois.engineer](https://gabrieldubois.engineer)
 
