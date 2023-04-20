@@ -9,6 +9,12 @@
   - **Software Developer at Genetec** - C# development in the Industrial Internet of Things team. [Quebec, Quebec. Summer 2023]
   - **Software Developer at iBwave** - Full-stack and QA development on the Unity Web Platform. [Montreal, Quebec. Fall 2022]
 
+📔 Relevant courses: 
+  - **Operating Systems**
+  - **Data Structures & Algorithms**
+  - **Object-Oriented Programming**
+  - **Principles Of Programming Languages**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gabe_soen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabe_soen" height="30" width="40" /></a>
