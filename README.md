@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Gabriel</h1>
 <h3 align="center">Software Engineer <strong>@</strong> Concordia Montreal</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adissuu&label=Profile%20views&color=0e75b6&style=flat" alt="adissuu" /> </p>
 👨‍💻 Projects are available at [https://gabrieldubois.engineer](https://gabrieldubois.engineer)
 
 📫 Reach me at: **gabrieldubois.eng@gmail.com**
@@ -46,4 +46,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adissuu&show_icons=true&locale=en" alt="adissuu" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adissuu&" alt="adissuu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adissuu&show_icons=true&locale=en&layout=compact" alt="adissuu" /></p>
 
