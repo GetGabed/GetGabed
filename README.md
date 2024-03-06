@@ -48,11 +48,10 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
 <h1 align="left">Stats</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adissuu&show_icons=true&locale=en" alt="adissuu" /></p>
 <br/>
-<br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adissuu&" alt="adissuu" /></p>
-<br/>
-<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adissuu&show_icons=true&locale=en&layout=compact" alt="adissuu" /></p>
 
+<div>
+  <p><img align="top" src="https://github-readme-stats.vercel.app/api?username=adissuu&show_icons=true&locale=en" alt="adissuu" /></p>
+  <p><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=adissuu&" alt="adissuu" /></p>
+  <p><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=adissuu&show_icons=true&locale=en&layout=compact" alt="adissuu" /></p>
+</div>
