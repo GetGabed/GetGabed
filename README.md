@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Gabriel</h1>
 <h3 align="center">Software Engineer <strong>@</strong> Concordia Montreal</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adissuu&label=Profile%20views&color=0e75b6&style=flat" alt="adissuu" /> </p>
-👨‍💻 Projects are available at [https://gabrieldubois.engineer](https://gabrieldubois.engineer)
+👨‍💻 Projects are available at [gabrieldubois.engineer](https://adissuu.github.io/gabrieldubois.engineer/)
 
 📫 Reach me at: **gabrieldubois.eng@gmail.com**
 
