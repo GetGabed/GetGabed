@@ -6,6 +6,7 @@
 📫 Reach me at: **gabrieldubois.eng@gmail.com**
 
 ⚡ Work experience:
+  - **Software Developer at Ubisoft** - Developed and improved online systems for enhanced gameplay in the online systems team. [Montreal, Quebec. Summer 2024] 
   - **Software Developer at Genetec** - C# development in the Industrial Internet of Things team. [Quebec, Quebec. Summer 2023]
   - **Software Developer at iBwave** - Full-stack and QA development on the Unity Web Platform. [Montreal, Quebec. Fall 2022]
 
