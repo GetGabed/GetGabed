@@ -15,7 +15,7 @@
   - **Software Developer at iBwave** - Full-stack and QA development on the Unity Web Platform. [Montreal, Quebec. Fall 2022]
 
 📔 Relevant courses: 
-  - **Operating Systems** - **Data Structures & Algorithms** - **Data Systems** - **Testing**
+  -- **Machine Learning** - **Artificial Intelligence** - **Cyber Security** - **OS** - **DSA** - **Data Systems** - **Testing**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
