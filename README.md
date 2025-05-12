@@ -42,6 +42,6 @@
 
 
 <div>
-  <p><img align="top" src="https://github-readme-stats.vercel.app/api?username=adissuu&show_icons=true&theme=aura_dark" alt="adissuu" /></p>
-  <p><img align="top" src="https://streak-stats.demolab.com?user=Adissuu&theme=aura_dark&border_radius=4.5" alt="adissuu" /></p>
+  <p><img align="top" src="https://github-readme-stats.vercel.app/api?username=getgabed&show_icons=true&theme=aura_dark" alt="adissuu" /></p>
+  <p><img align="top" src="https://streak-stats.demolab.com?user=GetGabed&theme=aura_dark&border_radius=4.5" alt="adissuu" /></p>
 </div>
