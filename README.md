@@ -40,7 +40,3 @@
 
 <h1 align="left">Stats</h1>
 
-
-<div>
-  <p><img align="top" src="https://github-readme-stats.vercel.app/api?username=getgabed&show_icons=true&theme=aura_dark" alt="getgabed" /></p>
-</div>
