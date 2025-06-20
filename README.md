@@ -11,7 +11,7 @@
 
 ⚡ Work experience:
   - **Software Engineer at Shopify** - Developed Rails services in the Commerce Trust and Integrity team. [Remote Summer 2025] 
-  - **Software Developer at Ubisoft** - Developed and improved online systems for enhanced user experience in the Core Domain team. [Montreal, Quebec. Summer - Winter 2024-1025] 
+  - **Software Developer at Ubisoft** - Developed and improved online systems for enhanced user experience in the Core Domain team. [Montreal, Quebec. Summer - Winter 2024-2025] 
   - **Software Developer at Genetec** - C# development in the Industrial Internet of Things team. [Remote, Summer 2023]
   - **Software Developer at iBwave** - Full-stack and QA development on the Unity Web Platform. [Montreal, Quebec. Fall 2022]
 
